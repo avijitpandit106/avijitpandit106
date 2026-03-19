@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Avijit 👨‍💻
 
-<!--
-**avijitpandit106/avijitpandit106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://your-portfolio-link.com)
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 CS Student | 📍 Kolkata, India
+🌱 Currently learning **Java · Python · Digital Electronics · COA**
+⚡ Interested in **system-level stuff, customization, and competitive gaming**
+
+---
+
+🛠️ Languages & Tools:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+_💬 "First, solve the problem. Then, write the code." – John Johnson_
