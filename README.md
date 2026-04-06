@@ -1,8 +1,8 @@
 # Hi there, I'm Avijit 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijit-pandit-917947335/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://your-portfolio-link.com)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub Followers](https://img.shields.io/github/followers/avijitpandit106?label=Follow&style=social)](https://github.com/avijitpandit106)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+📫 Reach me at: [your-email@example.com](mailto:dev.avijit404@gmail.com)
 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
