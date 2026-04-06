@@ -7,7 +7,7 @@
 ---
 
 🎓 CS Student | 📍 Kolkata, India
-🌱 Currently learning **Java · Python · Digital Electronics · COA**
+🌱 Currently learning **NextJS · Python · Operating System · Cyber Security**
 ⚡ Interested in **system-level stuff, customization, and competitive gaming**
 
 ---
