@@ -14,12 +14,12 @@
 
 🛠️ Languages & Tools:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=flat&logo=zedindustries&logoColor=white)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-📫 Reach me at: [your-email@example.com](mailto:dev.avijit404@gmail.com)
+📫 Reach me at: [dev.avijit404@gmail.com.com](mailto:dev.avijit404@gmail.com)
 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
